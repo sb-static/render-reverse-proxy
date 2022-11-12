@@ -1,2 +1,2 @@
 FROM fabiocicerchia/nginx-lua
-COPY nginx-site.conf /etc/nginx/conf.d/
+COPY nginx-site.conf /etc/nginx/conf.d/default.conf
